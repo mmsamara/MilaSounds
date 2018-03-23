@@ -1,0 +1,7 @@
+div.panel-body:hover {
+	cursor: pointer;
+	opacity: .5;
+}
+
+img.img-responsive {
+}
